@@ -1,0 +1,9 @@
+*.so
+*.o
+*.out
+**/*.ll
+**/*.bc
+.vscode/
+.gdb_history
+build/
+test*
